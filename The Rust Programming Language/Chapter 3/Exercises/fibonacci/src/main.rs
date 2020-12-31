@@ -2,15 +2,25 @@ use std::io;
 
 fn main() {
     println!("Generate nth Fibonacci number.");
-    println!("Enter n")
+    println!("Enter a positive integer.");
 
-    let n = String::new();
+    let mut n = String::new();
 
-    io::std()
-    	.read_line(&n)
-    	.expect("Failed to read.")
+    io::stdin()
+    	.read_line(&mut n)
+    	.expect("Failed to read.");
 
-    let n: u32 = n.trim().parse().expect("Please enter number.")
+    let n: u64 = n.trim().parse().expect("Please enter number.");
 
-    
+    let fib = fib(n);
+
+    println!("The {} Fibonacci number is: {}", n, fib);
+}
+
+fn fib(n: u64) -> u64 {
+	match n {
+		0 => 0,
+		1 => 1,
+		_ => fib(n - 1) + fib(n - 2),
+	}
 }
