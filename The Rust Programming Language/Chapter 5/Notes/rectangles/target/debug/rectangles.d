@@ -1,0 +1,1 @@
+/Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 5/Notes/rectangles/target/debug/rectangles: /Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 5/Notes/rectangles/src/main.rs

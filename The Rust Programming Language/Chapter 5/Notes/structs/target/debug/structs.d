@@ -1,0 +1,1 @@
+/Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 5/Notes/structs/target/debug/structs: /Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 5/Notes/structs/src/main.rs
