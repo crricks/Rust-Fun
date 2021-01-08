@@ -1,0 +1,1 @@
+/Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 7/Notes/restaurant/target/debug/librestaurant.rlib: /Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 7/Notes/restaurant/src/lib.rs
