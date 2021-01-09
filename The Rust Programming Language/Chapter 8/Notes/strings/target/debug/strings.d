@@ -1,0 +1,1 @@
+/Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 8/Notes/strings/target/debug/strings: /Users/clairericks/Coding/GitHub/Rust-Fun/The\ Rust\ Programming\ Language/Chapter\ 8/Notes/strings/src/main.rs
